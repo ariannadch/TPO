@@ -267,8 +267,8 @@ p:first-letter{
      transition: all 0.6s;
     }
     .iframe iframe{
-        width: 350px;
-        height: 150px;
+        width: 450px;
+        height: 250px;
     }
     .body img{
         width: 350px;
@@ -276,7 +276,6 @@ p:first-letter{
     }
     .container{
     width: 90%;
-    max-width: 900px;
     margin: auto;
 }
             
