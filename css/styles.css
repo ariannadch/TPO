@@ -268,12 +268,17 @@ p:first-letter{
     }
     .iframe iframe{
         width: 350px;
-        height: 250px;
+        height: 150px;
     }
     .body img{
         width: 350px;
-        height: 250px;
+        height: 150px;
     }
+    .container{
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+}
             
     
 }
