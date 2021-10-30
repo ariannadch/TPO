@@ -267,8 +267,8 @@ p:first-letter{
      transition: all 0.6s;
     }
     .iframe iframe{
-        width: 500px;
-        height: 350px;
+        width: 400px;
+        height: 250px;
     }
     
 }
